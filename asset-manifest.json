@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d883826e.css",
-    "main.js": "/static/js/main.024efd1a.js",
-    "index.html": "/index.html",
-    "main.d883826e.css.map": "/static/css/main.d883826e.css.map",
-    "main.024efd1a.js.map": "/static/js/main.024efd1a.js.map"
+    "main.css": "/buscador-cep/static/css/main.d883826e.css",
+    "main.js": "/buscador-cep/static/js/main.024efd1a.js",
+    "index.html": "/buscador-cep/index.html",
+    "main.d883826e.css.map": "/buscador-cep/static/css/main.d883826e.css.map",
+    "main.024efd1a.js.map": "/buscador-cep/static/js/main.024efd1a.js.map"
   },
   "entrypoints": [
     "static/css/main.d883826e.css",
